@@ -1,4 +1,4 @@
-# d3_colored_map
+## [DEMO](http://sunakujira1.github.io/d3_colored_map/)
 Playing around with data and d3
 
 Credits:

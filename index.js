@@ -1,8 +1,3 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import d3 from 'd3';
-
-
 class Test extends React.Component {
   constructor(props) {
     super(props);

@@ -41,7 +41,7 @@ class Test extends React.Component {
       }
     }
 
-    d3.csv('./cities1000_min.csv', type, render);
+    d3.csv('./cities15000_min.csv', type, render);
 
   }
 

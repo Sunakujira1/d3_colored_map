@@ -4,8 +4,8 @@ class Test extends React.Component {
   }
 
   componentDidMount() {
-    const innerWidth = window.innerWidth * 0.98;
-    const innerHeight = window.innerHeight * 0.97;
+    const innerWidth = window.innerWidth;
+    const innerHeight = window.innerHeight;
 
     const svg = d3.select('svg');
     svg.attr('width', innerWidth)
